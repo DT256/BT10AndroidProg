@@ -1,4 +1,4 @@
-package com.ducthang.myapplication;
+package com.ducthang.myapplication.activity;
 
 import android.Manifest;
 import android.app.ProgressDialog;
@@ -21,6 +21,8 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.ducthang.myapplication.R;
 
 import java.io.IOException;
 import java.util.Set;

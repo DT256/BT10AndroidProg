@@ -1,4 +1,4 @@
-package com.ducthang.myapplication;
+package com.ducthang.myapplication.activity;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -30,6 +30,9 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.bumptech.glide.Glide;
+import com.ducthang.myapplication.R;
+import com.ducthang.myapplication.RealPathUtil;
+import com.ducthang.myapplication.ServiceAPI;
 import com.ducthang.myapplication.constant.Const;
 import com.ducthang.myapplication.model.ImageUpload;
 

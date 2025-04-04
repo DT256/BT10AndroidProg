@@ -9,7 +9,7 @@
     android:padding="16dp"
     android:gravity="center_horizontal"
     android:background="#FFFFFF"
-    tools:context=".ProfileActivity">
+    tools:context=".activity.ProfileActivity">
 
     <!-- Tiêu đề "Hồ sơ cá nhân" -->
     <TextView
